@@ -8,7 +8,7 @@ Isaac is a technocrat and Guru in the art of programming with exceptional skills
 #### I'm a Full-Stack Developer based in Nairobi, Kenya, Africa. (in the background lion roar with all animal sound acknowledging one of their own son!!!)
 
 - 🏢 I'm currently working full-time/part-time as remote US_EU developer/Contractor with enterprenual businesses in Kenya.
-- ⚙️ I use daily: `Java`, `React.js`, `Google cloud`, `AWS`, `Spring`, `Javascript`, `Python`, `Android`, `IOS`,`Angular` 
+- ⚙️ I use daily: `Java`, `React.js`, `Google cloud`, `AWS`, `Spring`, `Javascript`, `Python`, `Android`,`Kotlin`,`React native`,`Node.js`,`Docker/Kubernetes`, `IOS`,`Angular` 
 - 🌱 Learning more about and studying: **Go/Golang, Amazon kinesis, Blockchain**
 - 💬 Ping me about: **web design**, **mobile apps**, **backend design**, **short contract**, **photography**
 - 📫 Reach me asap: ikhaguli@hotmail.com or ikhaguli@gmail.com
