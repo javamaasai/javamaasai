@@ -3,15 +3,15 @@
 ### Hey/Jambo, I'm Isaac 👋
 ---
 
-<!-- Isaac is a technocrat and Guru in the art of programming with exceptional skills in skills in Mobile (Android/Kotlin/React/Ionic/IOS) & Web GUI architecture using JavaScript and AJAX at DOM level scripting! A JAVA maven with exquisite J2EE tricks that can tackle any development barrier. Has experience managing teams of developers remotely and on-location distributed across geographical locations and time zones.-->
+Isaac is a technocrat and Guru in the art of programming with exceptional skills in skills in Mobile **(Android/Kotlin/React/Ionic/IOS)** & Web GUI architecture using JavaScript and AJAX at DOM level scripting! A JAVA maven with exquisite J2EE tricks that can tackle any development barrier. Has experience managing teams of developers remotely and on-location distributed across geographical locations and time zones.
 
-#### I'm a Full-Stack Developer based in Brooklyn, New York.
+#### I'm a Full-Stack Developer based in Nairobi, Kenya, Africa. (in the background lion roar with all animal sound acknowledging one of their own son!!!)
 
 - 🏢 I'm currently working full-time/part-time as remote US_EU developer/Contractor with enterprenual businesses in Kenya.
 - ⚙️ I use daily: `Java`, `React.js`, `Google cloud`, `AWS`, `Spring`, `Javascript`, `Python`, `Android`, `IOS`,`Angular` 
-- 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
+- 🌱 Learning more about and studying: **Go/Golang, Amazon kinesis, Blockchain**
 - 💬 Ping me about: **web design**, **mobile apps**, **backend design**, **short contract**, **photography**
-- 📫 Reach me asap: ikhaguli@hotmail or ikhaguli@gmail.com
+- 📫 Reach me asap: ikhaguli@hotmail.com or ikhaguli@gmail.com
 - 💜 Interests: Photography, cryptocurrency enthusiast, Travel
 - 😄 Passionate about accessibility and committed application of technology to disrupt.
 
