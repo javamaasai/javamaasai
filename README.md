@@ -1,4 +1,4 @@
-![javamaasai banner](https://github.com/javamaasai/javamaasai/blob/master/javamaasai-banner-03?raw=true)
+![javamaasai banner](https://github.com/javamaasai/javamaasai/blob/master/javamaasai-banner-03.png?raw=true)
 
 ### Hey/Jambo, I'm Isaac 👋
 ---
