@@ -10,10 +10,10 @@ Isaac is a technocrat and Guru in the art of programming with exceptional skills
 - 🏢 I'm currently working full-time/part-time as remote US_EU developer/Contractor with enterprenual businesses in Kenya.
 - I also manage development teams, work on short period, high velocity impact project and offer Tech architectural advice.
 - ⚙️ I use daily: `Java`, `React.js`, `Google cloud`, `AWS`, `Spring`, `Javascript`, `Python`, `Android`,`Kotlin`,`React native`,`Node.js`,`Docker/Kubernetes`, `IOS`,`Angular` 
-- 🌱 Learning more about and studying: **Flutter, Go/Golang, Amazon kinesis, Blockchain**
+- 🌱 Getting Deeper into : **Flutter, Go/Golang, Amazon kinesis, Blockchain**
 - 💬 Ping me about: **web design**, **mobile apps**, **backend design**, **short contract**, **photography**
 - 📫 Reach me asap: ikhaguli@hotmail.com or ikhaguli@gmail.com
-- 💜 Interests: Photography, cryptocurrency enthusiast, Travel
+- 💜 Interests: Business Idea seeding, Photography, Trading, cryptocurrency enthusiast, Drive Travel .... be alive!
 - 😄 Passionate about accessibility and committed application of technology to disrupt.
 
 #### Find me around the web 🌎:
